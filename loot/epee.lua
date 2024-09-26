@@ -1,0 +1,1 @@
+Epee = class('Epee', Loot)

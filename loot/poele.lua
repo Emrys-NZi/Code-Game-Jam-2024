@@ -1,0 +1,1 @@
+Poele = class('Poele', Loot)
